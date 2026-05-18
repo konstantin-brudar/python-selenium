@@ -1,3 +1,6 @@
 pytest==9.0.3
 selenium==4.44.0
-webdriver-manager==4.0.2
+webdriver-manager==4.1.0
+python-dotenv==1.2.2
+allure-pytest==2.16.0
+allure-python-commons==2.16.0
